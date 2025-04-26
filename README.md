@@ -16,8 +16,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=ManojNaik2712&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ManojNaik2712&limit=5&theme=neon&combine_all_yearly_contributions=true)
+[![E-Wallet System](https://github-readme-stats.vercel.app/api/pin/?username=ManojNaik2712&repo=ewallet-project&theme=radical)](https://github.com/ManojNaik2712/ewallet-project)
+[![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManojNaik2712&show_icons=true&theme=radical)](https://github.com/ManojNaik2712)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNaik2712&layout=compact&theme=radical)](https://github.com/ManojNaik2712)
 ---
 [![](https://visitcount.itsvg.in/api?id=ManojNaik2712&icon=5&color=4)](https://visitcount.itsvg.in)
 
