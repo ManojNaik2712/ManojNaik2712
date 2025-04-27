@@ -4,7 +4,7 @@
 <p align="center"><strong>I’m Manoj, a BCA final-year student passionate about backend development. I'm currently focused on building robust systems using Java, Spring Boot, and microservices</strong></p>
 
 <p align="center">
-   <img src=https://github.com/ManojNaik2712/ManojNaik2712/raw/main/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif alt="coding" width="600" />
+   <img src=https://github.com/ManojNaik2712/ManojNaik2712/raw/main/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif alt="coding" width="400" />
 </p>
 
 # 💫 About Me:
