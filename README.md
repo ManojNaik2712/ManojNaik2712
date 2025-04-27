@@ -1,3 +1,12 @@
+<h1 align="center">Hey there! 👋</h1>
+<h3 align="center">I'm thrilled to have you here! 🚀</h3>
+
+<p align="center">A passionate developer on a journey to build awesome projects! 🚀✨</p>
+
+<p align="center">
+   <img src="https://c.tenor.com/LT2cKj-8Zo4AAAAC/programming-code.gif" alt="coding" width="400" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on Crafting an E-Wallet with microservices (Spring Boot + Kafka)<br><br>🌱 I’m currently learning Build scalable systems with Spring Boot & Kafka Orchestrate services using Kubernetes<br><br>💬 Ask me about How to get started with Java backend dev<br><br>📫 How to reach me manunaik599@gmail.com<br><br>⚡ Fun fact I think about space more than I probably should 🚀
 
