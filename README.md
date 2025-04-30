@@ -8,7 +8,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Crafting an E-Wallet with microservices (Spring Boot + Kafka)<br><br>🌱 I’m currently learning Build scalable systems with Spring Boot & Kafka Orchestrate services using Kubernetes<br><br>💬 Ask me about How to get started with Java backend dev<br><br>📫 How to reach me manunaik599@gmail.com<br><br>⚡ Fun fact I think about space more than I probably should 🚀
+🔭 I’m currently working on Studentloansystem project with springboot<br><br>🌱 I’m currently learning Build scalable systems with Spring Boot & Kafka Orchestrate services using Kubernetes<br><br>💬 Ask me about How to get started with Java backend dev<br><br>📫 How to reach me manunaik599@gmail.com<br><br>⚡ Fun fact I think about space more than I probably should 🚀
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ManojNaik2712&theme=radical&no-frame=false&no-bg=false&margin-w=4)
