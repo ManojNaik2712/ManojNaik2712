@@ -49,7 +49,7 @@
    </td>
  <tr>
     <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <h3 align="center"><strong>​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​ ​🇺​​🇸​​🇪​​🇩​</strong></h3>
       
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNaik2712&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     </td>
