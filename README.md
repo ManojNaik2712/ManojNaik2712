@@ -8,9 +8,9 @@
 <h1 align="left">😎I'M Manoj Naik</h1>
 
 - 💫  I’m BCA final-year student passionate about backend development<br><br>
-- 🔭  I’m currently working on Studentloansystem project with springboot<br><br>
-- 🌱  I’m currently learning Build scalable systems with Spring Boot & Kafka Orchestrate services using Kubernetes<br><br>
-- 💬  Ask me about How to get started with Java backend dev<br><br>
+- 🔭  I’m currently working on TicketBookingSystem microservice project with springboot<br><br>
+- 🌱  I’m currently learning and building scalable systems with Spring Boot & Kafka Orchestrate services using Kubernetes<br><br>
+- 💬  Ask me about how to get started with Java backend dev<br><br>
 - 📫  How to reach me manunaik599@gmail.com<br><br>
 
    <p align="left">
@@ -51,8 +51,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/ManojNaik2712/StudentLoanSystem">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ManojNaik2712&repo=MicroService=nightowl&show_owner=true" alt="MicroService Project" />
+        <a href="https://github.com/ManojNaik2712/TicketBookingSystem">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ManojNaik2712&repo=TicketBookingSystem=nightowl&show_owner=true" alt="MicroService Project" />
         </a>
       </p>
     </td>
