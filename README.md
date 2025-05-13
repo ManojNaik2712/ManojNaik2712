@@ -50,11 +50,8 @@
  <tr>
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ManojNaik2712/TicketBookingSystem">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ManojNaik2712&repo=TicketBookingSystem=nightowl&show_owner=true" alt="MicroService Project" />
-        </a>
-      </p>
+      
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNaik2712&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
