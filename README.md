@@ -8,7 +8,7 @@
 <h1 align="left">😎I'M Manoj Naik</h1>
 
 - 💫  I’m BCA final-year student passionate about backend development<br><br>
-- 🔭  I’m currently working on TicketBookingSystem microservice project with springboot<br><br>
+- 🔭  I’m currently working on SmartPowerSystem microservice project with springboot<br><br>
 - 🌱  I’m currently learning and building scalable systems with Spring Boot & Kafka Orchestrate services using Kubernetes<br><br>
 - 💬  Ask me about how to get started with Java backend dev<br><br>
 - 📫  How to reach me manunaik599@gmail.com<br><br>
