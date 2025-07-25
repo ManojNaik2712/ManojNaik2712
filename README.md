@@ -38,7 +38,8 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
        
-   ![](https://github-readme-stats.vercel.app/api?username=ManojNaik2712&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=ManojNaik2712&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br> -->
+  ![](https://github-readme-stats.vercel.app/api?username=ManojNaik2712&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
 
    </td>
     </td>
@@ -51,13 +52,14 @@
     <td width="50%">
       <h3 align="center"><strong>​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​ ​🇺​​🇸​​🇪​​🇩​</strong></h3>
       
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNaik2712&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNaik2712&theme=neon)
     </td>
     <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <h3 align="center"><strong>Repo card</strong></h3>
       <p align="center">
         <a href="https://github.com/ManojNaik2712">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ManojNaik2712&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <!-- <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ManojNaik2712&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />-->
+          ![](https://github-readme-stats.vercel.app/api/pin/?username=ManojNaik2712&repo=smartpower-system&cache_seconds=86400&theme=neon)
         </a>
       </p>
     </td>
