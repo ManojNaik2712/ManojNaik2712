@@ -20,52 +20,54 @@
 ---
 <br/>
 
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
-<p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=c,py,java,html,css,javascript,bootstrap,postgres,mysql,git,github,idea,spring,kafka,maven,vscode,postman,linux&perline=10"  />
+### 🛠️ My Skills
+
+#### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css" />
 </p>
-<br />
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+#### Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,bootstrap,kafka" />
+</p>
 
-   ![](https://github-profile-trophy.vercel.app/?username=ManojNaik2712&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-<br />
+#### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+#### Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,idea,vscode,linux,maven" />
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-       
-<!-- ![](https://github-readme-stats.vercel.app/api?username=ManojNaik2712&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br> -->
-  ![](https://github-readme-stats.vercel.app/api?username=ManojNaik2712&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=neon)
+---
 
-   </td>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-       
-   ![](https://nirzak-streak-stats.vercel.app/?user=ManojNaik2712&theme=neon&hide_border=false)
-   </td>
- <tr>
-    <td width="50%">
-      <h3 align="center"><strong>​🇱​​🇦​​🇳​​🇬​​🇺​​🇦​​🇬​​🇪​ ​🇺​​🇸​​🇪​​🇩​</strong></h3>
-      
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNaik2712&theme=neon)
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Repo card</strong></h3>
-      <p align="center">
-        <a href="https://github.com/ManojNaik2712">
-          <!-- <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ManojNaik2712&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />-->
-          ![](https://github-readme-stats.vercel.app/api/pin/?username=ManojNaik2712&repo=smartpower-system&cache_seconds=86400&theme=neon)
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-<br />
+<div align="center">
+  <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+<h2 align="center">📈 Github Stats 📈  </h2>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ManojNaik2712&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNaik2712&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
@@ -77,11 +79,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-<!--[![Manu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManojNaik2712&show_icons=true&theme=radical)](https://github.com/ManojNaik2712)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojNaik2712&layout=compact&theme=radical)](https://github.com/ManojNaik2712)
----
-[![](https://visitcount.itsvg.in/api?id=ManojNaik2712&icon=5&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
