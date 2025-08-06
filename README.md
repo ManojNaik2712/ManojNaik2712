@@ -5,13 +5,12 @@
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<h1 align="left">😎I'M Manoj Naik</h1>
+<h1 align="left">😎 I'M Manoj Naik</h1>
 
-- 💫  I’m BCA final-year student passionate about backend development<br><br>
-- 🔭  I’m currently working on SmartPowerSystem microservice project with springboot<br><br>
-- 🌱  I’m currently learning and building scalable systems with Spring Boot & Kafka Orchestrate services using Kubernetes<br><br>
-- 💬  Ask me about how to get started with Java backend dev<br><br>
-- 📫  How to reach me manunaik599@gmail.com<br><br>
+- 🔭 I’m currently working on a **SmartPowerSystem microservice project** using **Spring Boot**.
+- 🌱 I’m currently learning and mastering **DevOps**, focusing on orchestrating scalable services with **Kubernetes** and **Kafka**.
+- 💬 Ask me about getting started with Java backend development!
+- 📫 You can reach me at manunaik599@gmail.com
 
    <p align="left">
      <img src="https://komarev.com/ghpvc/?username=Manoj2712&label=Profile%20views&color=green&style=for-the-badge&logo=star" alt="Manu" style="padding-right:20px;" />
