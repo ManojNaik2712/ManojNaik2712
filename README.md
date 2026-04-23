@@ -40,15 +40,6 @@
 
 ---
 
-<div align="center">
-  <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</div>
-
----
-
 <h2 align="center">📈 Github Stats 📈  </h2>
 <p align="center">
   <table>
