@@ -1,9 +1,6 @@
 <h1 align="center">Hey there! 👋</h1>
 <h3 align="center">I'm thrilled to have you here! 🚀</h3>
 
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
-</div>
 
 <h1 align="left">😎 I'M Manoj Naik</h1>
 
